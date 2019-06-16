@@ -80,6 +80,6 @@
     }
   ],
   "ciudades_csv": {
-    "ciudades_csv": `Nombre;País;id\n;;\nMadrid; España; ES-28-001\nLondres; Gran Bretaña; GB-25-001\nParís;Francia;FR-28-001\nToledo;España;ES-45-001\nValencia;España;ES-46-001\nToledo;Estados Unidos;EU-55-008\n;Estados Unidos;EU-55-008\nT;Estados Unidos;EU-55-008\nToledo;eSTADOS;EU-55-008`;
+    "ciudades_csv": "Nombre;País;id\n;;\nMadrid; España; ES-28-001\nLondres; Gran Bretaña; GB-25-001\nParís;Francia;FR-28-001\nToledo;España;ES-45-001\nValencia;España;ES-46-001\nToledo;Estados Unidos;EU-55-008\n;Estados Unidos;EU-55-008\nT;Estados Unidos;EU-55-008\nToledo;eSTADOS;EU-55-008";
   }
 }
