@@ -79,7 +79,8 @@
       ]
     }
   ],
-  "ciudades_csv": `Nombre;País;id
+  "ciudades_csv": {
+    "ciudades_csv": `Nombre;País;id
 ;;
 Madrid; España; ES-28-001
 Londres; Gran Bretaña; GB-25-001
@@ -90,4 +91,5 @@ Toledo;Estados Unidos;EU-55-008
 ;Estados Unidos;EU-55-008
 T;Estados Unidos;EU-55-008
 Toledo;eSTADOS;EU-55-008`;
+  }
 }
